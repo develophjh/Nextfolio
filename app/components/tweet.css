@@ -1,3 +1,4 @@
+@reference "../globals.css";
 /* Light theme */
 .tweet .react-tweet-theme {
   /* margin is handled by our wrappers */
